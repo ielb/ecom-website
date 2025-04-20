@@ -149,7 +149,7 @@ export default function ReturnsPage() {
             our Customer Service team:
           </p>
           <address className="not-italic">
-            <p>Email: returns@zohria.com</p>
+            <p>Email: returns@orium.com</p>
             <p>Phone: +1 (555) 123-4567</p>
             <p>Hours: Monday - Friday, 9am - 5pm EST</p>
           </address>

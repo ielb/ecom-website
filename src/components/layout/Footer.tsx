@@ -139,7 +139,7 @@ export function Footer() {
 
             {/* Copyright */}
             <div className="text-gray-400 text-sm">
-              © {new Date().getFullYear()} ZOHRIA. All rights reserved.
+              © {new Date().getFullYear()} Orium. All rights reserved.
             </div>
 
             {/* Payment Methods */}

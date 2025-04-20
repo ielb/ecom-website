@@ -26,7 +26,7 @@ export function Navbar() {
     <div className="w-full">
       {/* Promo bar */}
       <div className="w-full bg-black text-white text-center py-2 text-xs sm:text-sm">
-        Get 25% Off This Summer Sale at Zohria. Grab It Fast!! 15H : 45M : 37S
+        Get 25% Off This Summer Sale at Orium. Grab It Fast!! 15H : 45M : 37S
       </div>
 
       {/* Main navbar */}
